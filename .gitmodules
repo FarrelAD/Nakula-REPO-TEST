@@ -1,0 +1,3 @@
+[submodule "submodule-parent/sadewa-repo"]
+	path = submodule-parent/sadewa-repo
+	url = https://github.com/FarrelAD/Sadewa-REPO-TEST.git
